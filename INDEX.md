@@ -82,6 +82,7 @@
 
 **Documents included:**
 - ✓ [FLAN 2025 Approved Budget 10-30-2024.pdf](07_Current_Budget/FLAN%202025%20Approved%20Budget%2010-30-2024.pdf)
+- ✓ [FLAN 2026 Budget Approved 11-10-2025.pdf](07_Current_Budget/FLAN%202026%20Budget%20Approved%2011-10-2025.pdf)
 
 ---
 
@@ -97,6 +98,9 @@
 
 **Documents included:**
 - ✓ [FLAN 25-26 Certificate of Insurance.pdf](09_Insurance_Certificate/FLAN%2025-26%20Certificate%20of%20Insurance.pdf)
+- ✓ [FLAN 25-26 Certificate of Insurance-1.pdf](09_Insurance_Certificate/FLAN%2025-26%20Certificate%20of%20Insurance-1.pdf)
+- ✓ [FLAN 25-26 Certificate of Insurance-2.pdf](09_Insurance_Certificate/FLAN%2025-26%20Certificate%20of%20Insurance-2.pdf)
+- ✓ [FLAN 25-26 Unit Owners Letter-1.pdf](09_Insurance_Certificate/FLAN%2025-26%20Unit%20Owners%20Letter-1.pdf)
 
 ---
 
@@ -137,6 +141,10 @@
 - ✓ [FLAN Board Meeting Minutes 04-28-2025.pdf](11_Board_Meeting_Minutes_24_Months/FLAN%20Board%20Meeting%20Minutes%2004-28-2025.pdf)
 - ✓ [FLAN Board Meeting Minutes 05-08-2025.pdf](11_Board_Meeting_Minutes_24_Months/FLAN%20Board%20Meeting%20Minutes%2005-08-2025.pdf)
 - ✓ [FLAN Board Meeting Minutes 06-04-2025.pdf](11_Board_Meeting_Minutes_24_Months/FLAN%20Board%20Meeting%20Minutes%2006-04-2025.pdf)
+- ✓ [FLAN Board Meeting Minutes 06-25-2025.pdf](11_Board_Meeting_Minutes_24_Months/FLAN%20Board%20Meeting%20Minutes%2006-25-2025.pdf)
+- ✓ [FLAN Board Meeting Minutes 08-12-2025.pdf](11_Board_Meeting_Minutes_24_Months/FLAN%20Board%20Meeting%20Minutes%2008-12-2025.pdf)
+- ✓ [FLAN Board Meeting Minutes 09-08-2025.pdf](11_Board_Meeting_Minutes_24_Months/FLAN%20Board%20Meeting%20Minutes%2009-08-2025.pdf)
+- ✓ [FLAN Board Meeting Minutes 11-10-2025.pdf](11_Board_Meeting_Minutes_24_Months/FLAN%20Board%20Meeting%20Minutes%2011-10-2025.pdf)
 
 ---
 
