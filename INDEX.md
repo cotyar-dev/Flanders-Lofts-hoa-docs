@@ -173,7 +173,6 @@
 
 ### Documents Not Available in Current Set:
 - Year-to-date Financial Statements
-- Year-end Financial Statements
 - Property Condition Assessments & Forensic Inspection Reports
 - Claims/Demands Documentation
 - Independent Accountant's Review Report
