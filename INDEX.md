@@ -73,7 +73,7 @@
 **Requirement:** Current or most recent Reserve Study (30-year funding projection)
 
 **Documents included:**
-- ✓ [FLAN 2025 Reserve Study.pdf](06_Reserve_Study/FLAN%202025%20Reserve%20Study.pdf)
+- ✓ [FLAN 2026 Reserve Study.pdf](06_Reserve_Study/FLAN%202026%20Reserve%20Study.pdf)
 
 ---
 
@@ -89,7 +89,8 @@
 ### 08 Financial Statements
 **Requirement:** Year-to-date and Year-end Financial Statements
 
-**Documents included:** None available in current document set
+**Documents included:**
+- ✓ [FLAN Dec 2025 Operating Report.pdf](08_Financial_Statements/FLAN%20Dec%202025%20Operating%20Report.pdf)
 
 ---
 
